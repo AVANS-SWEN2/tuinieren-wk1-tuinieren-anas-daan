@@ -10,15 +10,6 @@ public class TuinDomotica {
     public TuinDomotica() {
         super();
         slimmeschakelaar = Schakelaar.AUTOMATISCH;
-       
-=======
-    tijdstip = 21;
-
-    public TuinDomotica() {
-        super();
-        slimmeschakelaar = Schakelaar.AUTOMATISCH;
-        
-
     }
     
     public Boolean getDaglicht() {
