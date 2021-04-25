@@ -37,4 +37,12 @@ public class TuinDomotica {
     public void setSlimmeschakelaar(schakelaar slimmeschakelaar) {
         this.slimmeschakelaar = slimmeschakelaar;
     }
+    
+    public void tuinverlichtingAan() {
+    	//zet tuinverlichting aan
+    }
+    
+    public void tuinverlichtingUit() {
+    	//zet tuinverlichting uit
+    }
 }
