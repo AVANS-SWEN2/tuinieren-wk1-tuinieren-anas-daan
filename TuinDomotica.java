@@ -2,10 +2,13 @@ public class TuinDomotica {
     private Boolean daglicht;
     private Boolean regen;
     private Schakelaar slimmeschakelaar;
+    private int tijdstip;
+    
 
     public TuinDomotica() {
         super();
         slimmeschakelaar = Schakelaar.AUTOMATISCH;
+        tijdstip = 21;
     }
     
     public Boolean getDaglicht() {
