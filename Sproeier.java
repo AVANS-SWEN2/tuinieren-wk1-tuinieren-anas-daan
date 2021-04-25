@@ -12,4 +12,12 @@ public class Sproeier {
     {
         System.out.println("Aan het sproeien.");  
     }
+    
+    public void sproeierAan() {
+		//zet de sproeier aan
+	}
+    
+    public void sproeierUit() {
+		//zet de sproeier uit
+	}
 }
