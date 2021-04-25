@@ -37,4 +37,8 @@ public class TuinDomotica {
     public void setSlimmeschakelaar(schakelaar slimmeschakelaar) {
         this.slimmeschakelaar = slimmeschakelaar;
     }
+    
+    public void verlichting() {
+    	//als domotica status op automatisch staat zet dan de verlichting aan tussen 20:00 en 5:00
+    }
 }
