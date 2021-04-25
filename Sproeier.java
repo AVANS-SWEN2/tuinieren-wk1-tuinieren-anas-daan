@@ -10,7 +10,6 @@ public class Sproeier {
 
     public void sproeien ()
     {
-    	//Domotica op automatisch? sproei dan van 20:00 tot 5:00 
         System.out.println("Aan het sproeien.");  
     }
 }
